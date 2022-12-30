@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdul, an <a href="https://www.linkedin.com/in/abdul-mohammed-8b5273251/">helpdesk tech</a>☺</h1>
+<h1>Hi, I'm Abdul, an <a href="https://www.linkedin.com/in/abdul-mohammed-8b5273251/"> IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
